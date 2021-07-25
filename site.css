@@ -1,15 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
 
 body{
-
     background:url(./Imagens/imagem-fundonovo.jpg)
 }
 
 #Principal{
-    background: #ff9800;
     padding: 50px;
     margin: 50px;
-    box-shadow: -15px 14px 15px 4px #e69e1afc;
     text-align: center;
     size: 19pt;
     font-family: "Zen Loop";
