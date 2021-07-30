@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
 
 body{
-    background:url(./Imagens/imagem-fundonovo.jpg)
-    
+    background:url(./Imagens/fundo-novo2.jpg)
+
 }
 
 #Principal{
@@ -12,6 +12,7 @@ body{
     size: 19pt;
     font-family: "Zen Loop";
     font-size: 30pt;
+    color: #f7f2ee;
 }
 
 
