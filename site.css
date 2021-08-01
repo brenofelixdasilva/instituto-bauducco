@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
 
 body{
-    background:url(./Imagens/fundo-novo2.jpg)
+    background:orange
 
 }
 
 #Principal{
-    padding: 50px;
-    margin: 50px;
+    padding: 20px;
+    margin: 20px;
     text-align: center;
     size: 19pt;
     font-family: "Zen Loop";
     font-size: 30pt;
-    color: #f7f2ee;
+    color: #dd6605;
 }
 
 
