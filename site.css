@@ -12,10 +12,10 @@ body{
     padding: 20px;
     margin: 20px;
     text-align: center;
-    size: 19pt;
+    size: 22pt;
     font-family: "Zen Loop";
     font-size: 30pt;
-    color: #dd6605;
+    color: #f5b70c;
 }
 
 .box{
@@ -25,5 +25,61 @@ body{
     size: 19pt;
     font-family: "Zen Loop";
     font-size: 30pt;
-    color:#dd6605
+    color:#e96c27
+
+}
+
+span{
+    font-weight: bold;
+    color: black;
+}
+
+#d2{
+    font-size: 38pt;
+    color: #684c3c
+
+}
+
+#d3{
+    font-size: 23pt;
+
+}
+
+#d4{
+    font-size: 35pt;
+    color: #666a5e
+
+
+}
+
+#d5{
+    color: #ffc80e;
+    text-align: left;
+    
+}
+
+#d6{
+    color: #b2b072
+
+
+}
+
+#d7{
+    color:#ffc80e;
+    text-align: left;
+}
+
+#d8{
+    color: rgb(209, 153, 0);
+}
+
+#d9{
+    color:#ffc80e;
+    padding: 100px;
+    text-align: left;
+
+}
+
+#d10{
+    color:#F9E9A4;
 }
