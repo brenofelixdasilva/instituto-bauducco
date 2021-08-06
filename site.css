@@ -1,85 +1,68 @@
 @import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
 
 body{
-    background-image: url(https://images.pexels.com/photos/4916562/pexels-photo-4916562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-image: url(https://images.pexels.com/photos/1387070/pexels-photo-1387070.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
     background-size: cover;
     margin: 5% auto;
     border-radius: 60px;
     box-shadow: 12px 12px 20px rgba(0,0,0,1);
 }
 
-#Principal{
-    padding: 20px;
-    margin: 20px;
-    text-align: center;
-    size: 22pt;
-    font-family: "Zen Loop";
-    font-size: 30pt;
-    color: #f5b70c;
-}
-
 .box{
     padding: 20px;
     margin: 20px;
-    text-align: center;
+    text-align: justify;
     size: 19pt;
     font-family: "Zen Loop";
     font-size: 30pt;
     color:#e96c27
 
 }
-
-span{
-    font-weight: bold;
-    color: black;
+#d1{
+    text-align: center;
 }
 
 #d2{
+    text-align: center;
     font-size: 38pt;
-    color: #684c3c
+    color: bisque;
 
 }
 
 #d3{
     font-size: 23pt;
+    color: tan;
 
 }
 
 #d4{
+    text-align: center;
     font-size: 35pt;
-    color: #666a5e
+    color: chocolate;
 
 
 }
 
 #d5{
-    color: #ffc80e;
+    color: cadetblue;
     text-align: left;
     
 }
 
 #d6{
-    color: #b2b072
-
-
+    color: orangered;
+    text-align: left;
 }
 
 #d7{
-    color:#ffc80e;
+    color: darksalmon;
     text-align: left;
+
 }
 
 #d8{
-    color: rgb(209, 153, 0);
+    text-align: center
 }
-
 #d9{
-    color:#ffc80e;
-    padding: 100px;
-    text-align: left;
-
-}
-
-#d10{
-    color:#F9E9A4;
+    text-align: center
 }
