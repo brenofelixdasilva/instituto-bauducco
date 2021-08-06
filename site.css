@@ -15,7 +15,8 @@ body{
     size: 19pt;
     font-family: "Zen Loop";
     font-size: 30pt;
-    color:#e96c27
+    color:#e96c27;
+
 
 }
 #d1{
@@ -55,14 +56,19 @@ body{
 }
 
 #d7{
-    color: darksalmon;
+    color: #60bb1b;
     text-align: left;
 
 }
 
 #d8{
-    text-align: center
+    text-align: center;
 }
 #d9{
-    text-align: center
+    text-align: center;
+}
+
+span{
+    font-weight: bold;
+    color: inherit;
 }
