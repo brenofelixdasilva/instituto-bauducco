@@ -45,6 +45,7 @@ body{
     font-family: "Zen Loop";
     font-size: 25pt;
     margin: 10px;
+    background-color: #0000006e;
 }
 
 #d6{
@@ -55,6 +56,7 @@ body{
     justify-content: center;
     flex-direction: row;
     margin: 10px;
+    background-color: #0000006e;
 }
 
 #d7{
@@ -62,7 +64,8 @@ body{
     color: #60bb1b;
     font-family: "Zen Loop";
     font-size: 25pt;
-    margin: 10px;
+    margin: 43px;
+    background-color:#0000006e;
 
 }
 
