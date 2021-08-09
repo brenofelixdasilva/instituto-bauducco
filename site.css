@@ -6,69 +6,91 @@ body{
     margin: 5% auto;
     border-radius: 60px;
     box-shadow: 12px 12px 20px rgba(0,0,0,1);
+    
 }
 
 .box{
     padding: 20px;
-    margin: 20px;
-    text-align: justify;
+    margin-top: 100px;
+    justify-content: space-between;
     size: 19pt;
     font-family: "Zen Loop";
     font-size: 30pt;
     color:#e96c27;
-
-
-}
-#d1{
-    text-align: center;
 }
 
 #d2{
-    text-align: center;
     font-size: 38pt;
     color: bisque;
-
+    display: flex;
+    justify-content: center;
+    margin: 10px
 }
 
 #d3{
     font-size: 23pt;
     color: tan;
-
+    margin: 10px
 }
 
 #d4{
-    text-align: center;
     font-size: 35pt;
     color: chocolate;
-
-
+    margin: 10px
 }
 
-#d5{
+#conteudo{
+    width: 500px;
     color: cadetblue;
-    text-align: left;
-    
+    font-family: "Zen Loop";
+    font-size: 25pt;
+    margin: 10px;
 }
 
 #d6{
+    width: 500px;
     color: orangered;
-    text-align: left;
+    font-family: "Zen Loop";
+    font-size: 25pt;
+    justify-content: center;
+    flex-direction: row;
+    margin: 10px;
 }
 
 #d7{
+    width: 500px;
     color: #60bb1b;
-    text-align: left;
+    font-family: "Zen Loop";
+    font-size: 25pt;
+    margin: 10px;
 
 }
 
 #d8{
-    text-align: center;
+    margin: 2px;
+    padding: 2px;
+    color: black;
+    border: black;
+    border-radius: 2px;
 }
-#d9{
-    text-align: center;
+
+#menuoficinas{
+    width: 500px;
+    font-weight: bold;
+    color: bisque;
+}
+
+#menu{
+    font-size: 30pt;
+    font-family: "Zen Loop";
+    color:bisque;
+
 }
 
 span{
-    font-weight: bold;
-    color: inherit;
+    display: flex;
+    justify-content: space-around;
 }
+
+   
+
