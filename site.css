@@ -9,6 +9,17 @@ body{
     
 }
 
+.box1{
+    padding: 20px;
+    margin-top: 100px;
+    justify-content: space-between;
+    size: 19pt;
+    font-family: "Zen Loop";
+    font-size: 30pt;
+    color:#e96c27;
+}
+    
+
 .box{
     padding: 20px;
     margin-top: 100px;
@@ -17,6 +28,21 @@ body{
     font-family: "Zen Loop";
     font-size: 30pt;
     color:#e96c27;
+    display: flex;
+    flex-direction: row;
+    align-content: stretch;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+
+}
+
+.box > img{
+    border: 3px solid black;
+    
+}
+
+#d1{
+    border: none;
 }
 
 #d2{
@@ -45,7 +71,6 @@ body{
     font-family: "Zen Loop";
     font-size: 25pt;
     margin: 10px;
-    background-color: #0000006e;
 }
 
 #d6{
@@ -56,7 +81,6 @@ body{
     justify-content: center;
     flex-direction: row;
     margin: 10px;
-    background-color: #0000006e;
 }
 
 #d7{
@@ -65,7 +89,6 @@ body{
     font-family: "Zen Loop";
     font-size: 25pt;
     margin: 43px;
-    background-color:#0000006e;
 
 }
 
@@ -91,9 +114,14 @@ body{
 }
 
 span{
+    padding-top: 10px;
     display: flex;
+    flex-wrap: nowrap;
     justify-content: space-around;
+    background: #00000078;
+    margin: 40px;
 }
+
 
    
 
